@@ -1,7 +1,7 @@
 <?php
 $db_host="localhost";
 $db_user="root";
-$db_password="01inquisidores";
+$db_password="2021Tese";
 $db_name="bd_coches";
 $db_table_name="vehiculo";
    $db_connection = mysql_connect($db_host, $db_user, $db_password);

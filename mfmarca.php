@@ -2,7 +2,7 @@
 $dbhost="localhost";  // host del MySQL (generalmente localhost)
 $dbusuario="root"; // aqui debes ingresar el nombre de usuario
                       // para acceder a la base
-$dbpassword="01inquisidores"; // password de acceso para el usuario de la
+$dbpassword="2021Tese"; // password de acceso para el usuario de la
                       // linea anterior
 $db="bd_coches";        // Seleccionamos la base con la cual trabajar
 $tabla="marca";

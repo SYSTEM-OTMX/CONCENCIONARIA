@@ -1,7 +1,14 @@
 <?php
+$db_host="localhost";
+$db_user="root";
+$db_password="2021Tese";
+$db_name="bd_coches";
+$db_table_name="veopcliven";
+   $db_connection = mysql_connect($db_host, $db_user, $db_password);
 
-include("conect/conexion.php")
-
+if (!$db_connection) {
+	die('No se ha podido conectar a la base de datos');
+}
 $subs_clave = utf8_decode($_POST['clave']);
 $subs_nombre = utf8_decode($_POST['nombre']);
 $subs_dni = utf8_decode($_POST['dni']);
