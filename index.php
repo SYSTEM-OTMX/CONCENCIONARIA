@@ -39,8 +39,19 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                       <li><a class="dropdown-item" href="mfcalle.php">CALLE</a></li>
-                      <li><a class="dropdown-item" href="#">CLIENTE</a></li>
-                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                      <li><a class="dropdown-item" href="mfcliente.php">CLIENTE</a></li>
+                      <li><a class="dropdown-item" href="mfcoche.php">COCHE</a></li>
+                      <li><a class="dropdown-item" href="mfcolonia.php">COLONIA</a></li>
+                      <li><a class="dropdown-item" href="mfdelegacion.php">DELEGACION</a></li>
+                      <li><a class="dropdown-item" href="mfmarca.php">MARCA</a></li>
+                      <li><a class="dropdown-item" href="mfopce.php">OPCE</a></li>
+                      <li><a class="dropdown-item" href="mftipotel.php">TIPO TEL</a></li>
+                      <li><a class="dropdown-item" href="mftiptelcli.php">TIPO TEL CLI</a></li>
+                      <li><a class="dropdown-item" href="mftiptelven.php">TIP TEL VEN</a></li>
+                      <li><a class="dropdown-item" href="mfvehiculo.php">VEHICULO</a></li>
+                      <li><a class="dropdown-item" href="mfvendedor.php">VENDEDOR</a></li>
+                      <li><a class="dropdown-item" href="mfveop.php">VE OP</a></li>
+                      
                     </ul>
                   </li>
 
